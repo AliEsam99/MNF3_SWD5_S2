@@ -1,0 +1,14 @@
+E:\C#\Session 01\Task session04\Task session04\obj\Debug\net8.0\Task session04.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Session 01\Task session04\Task session04\obj\Debug\net8.0\Task session04.AssemblyInfoInputs.cache
+E:\C#\Session 01\Task session04\Task session04\obj\Debug\net8.0\Task session04.AssemblyInfo.cs
+E:\C#\Session 01\Task session04\Task session04\obj\Debug\net8.0\Task session04.csproj.CoreCompileInputs.cache
+E:\C#\Session 01\Task session04\Task session04\bin\Debug\net8.0\Task session04.exe
+E:\C#\Session 01\Task session04\Task session04\bin\Debug\net8.0\Task session04.deps.json
+E:\C#\Session 01\Task session04\Task session04\bin\Debug\net8.0\Task session04.runtimeconfig.json
+E:\C#\Session 01\Task session04\Task session04\bin\Debug\net8.0\Task session04.dll
+E:\C#\Session 01\Task session04\Task session04\bin\Debug\net8.0\Task session04.pdb
+E:\C#\Session 01\Task session04\Task session04\obj\Debug\net8.0\Task session04.dll
+E:\C#\Session 01\Task session04\Task session04\obj\Debug\net8.0\refint\Task session04.dll
+E:\C#\Session 01\Task session04\Task session04\obj\Debug\net8.0\Task session04.pdb
+E:\C#\Session 01\Task session04\Task session04\obj\Debug\net8.0\Task session04.genruntimeconfig.cache
+E:\C#\Session 01\Task session04\Task session04\obj\Debug\net8.0\ref\Task session04.dll
